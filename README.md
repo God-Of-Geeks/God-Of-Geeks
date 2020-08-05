@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=Srikar-Code&color=green)
+![](https://komarev.com/ghpvc/?username=Srikar-Code&color=green&label=Welcome)
