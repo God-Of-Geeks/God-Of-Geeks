@@ -1,4 +1,4 @@
-# Hi there 👋 ,I'm Srikar Amara
+# Hi there 👋 I'm Srikar Amara
 
 ## Welcome To My Github Page 🌱🌱🌱🌱🌱
 
