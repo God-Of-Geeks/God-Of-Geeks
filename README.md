@@ -1,7 +1,5 @@
-# Hi there 👋 I'm Srikar Amara
-
-## Currently Learning:Data Science 📘
-
+# Hi there 👋 
 ## Welcome To My Github Page 🌱🌱🌱🌱🌱
 
- 
+Python Programmer 🤖
+## Currently Learning:Data Science 📘
