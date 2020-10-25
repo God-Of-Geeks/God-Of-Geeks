@@ -4,4 +4,4 @@
 Python Programmer 🤖
 ## Upcoming personal projects:
   -Reddit Image Scraper <br/>
-  -Redundant Image Downloader
+  -Redundant Image Remover
